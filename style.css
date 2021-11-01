@@ -1,0 +1,45 @@
+
+.jumbotron{
+    padding-top: 9rem;
+    background-color: aliceblue;
+}
+.col{
+    padding-top: 3rem;
+}
+#about{
+    background-color: #dbb22c;
+}
+#projects{
+    background-color: aliceblue;
+}
+#contacts{
+    background-color: #dbb22c;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.card-text{
+    color: black;
+}
+.lead{
+    color: black;
+}
+.myproject{
+    color: black;
+}
+.form-label{
+    color: aliceblue;
+}
+#akhiran{
+    background-color: aliceblue;
+}
+.foot{
+    color: black;
+}.pfoot{
+    color: black;
+}footer{
+    background-color: aliceblue;
+}
